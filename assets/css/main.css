@@ -2946,7 +2946,7 @@ input, select, textarea {
 
 		header.major {
 			margin: 0 0 4rem 0;
-			text-align: center;
+			text-align: justify;
 		}
 
 			header.major > :last-child {
